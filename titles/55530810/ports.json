@@ -1,0 +1,9 @@
+{ 
+    "connect": [
+        {
+          "info": "Demonware Server",
+          "port": 1002,
+          "mappedTo": 3074
+        }
+    ]
+}
