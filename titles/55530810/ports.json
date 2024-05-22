@@ -3,7 +3,7 @@
         {
             "info": "Demonware Server",
             "port": 1002,
-            "mappedTo": 3074
+            "mappedTo": 1002
         }
     ],
     "bind": [
